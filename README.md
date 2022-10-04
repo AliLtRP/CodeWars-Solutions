@@ -9,3 +9,4 @@
 7- [Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105)<br/>
 8- [To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)<br/>
 9- [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6)</br>
+10-[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)</br>
