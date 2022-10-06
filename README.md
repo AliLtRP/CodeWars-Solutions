@@ -21,3 +21,6 @@
 </br>
 10-[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 </br>
+11-[Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/java)&emsp;
+[python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/c7a91b8bf84bf7ab34a0870ce0a550ec392a8caa/8kyu/Remove%20First%20and%20Last%20Character.py)&emsp;
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/c7a91b8bf84bf7ab34a0870ce0a550ec392a8caa/8kyu-java/Remove%20First%20and%20Last%20Character.java)</br>
