@@ -24,3 +24,6 @@
 11-[Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/java)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/c7a91b8bf84bf7ab34a0870ce0a550ec392a8caa/8kyu/Remove%20First%20and%20Last%20Character.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/c7a91b8bf84bf7ab34a0870ce0a550ec392a8caa/8kyu-java/Remove%20First%20and%20Last%20Character.java)</br>
+12-[DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+[python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/910c6f35f017d72310429a1976aabc2d295dbf15/8kyu/DNA_to_RNA_Conversion.py)
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/edd7dcc63b266cfeaf4246aca6a112dc25b4dadd/8kyu-java/DNA_to_RNA_Conversion.java)</br>
