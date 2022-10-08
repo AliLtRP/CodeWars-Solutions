@@ -27,3 +27,6 @@
 12-[DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/910c6f35f017d72310429a1976aabc2d295dbf15/8kyu/DNA_to_RNA_Conversion.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/edd7dcc63b266cfeaf4246aca6a112dc25b4dadd/8kyu-java/DNA_to_RNA_Conversion.java)</br>
+13-[Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)&emsp;
+[python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/9dae8cef95c56b713c96baa2cd6d9d13c854babd/8kyu/Double_Char.py)&emsp;
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/a78275fdf56abb70506d7bb2207d72ac7ab769f6/8kyu-java/Double_Char.java)</br>
