@@ -30,7 +30,6 @@
 13-[Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/9dae8cef95c56b713c96baa2cd6d9d13c854babd/8kyu/Double_Char.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/a78275fdf56abb70506d7bb2207d72ac7ab769f6/8kyu-java/Double_Char.java)</br>
-
 14-[Thinkful - Logic Drills: Traffic light](https://www.codewars.com/kata/58649884a1659ed6cb000072/)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/861dfd0459802952579cb6702003ad68f4f32a77/8kyu/Thinkful%20-%20Logic%20Drills:%20Traffic%20light.py)&emsp;
 [java sol.]()</br>
