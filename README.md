@@ -32,4 +32,4 @@
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/a78275fdf56abb70506d7bb2207d72ac7ab769f6/8kyu-java/Double_Char.java)</br>
 14-[Thinkful - Logic Drills: Traffic light](https://www.codewars.com/kata/58649884a1659ed6cb000072/)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/861dfd0459802952579cb6702003ad68f4f32a77/8kyu/Thinkful%20-%20Logic%20Drills:%20Traffic%20light.py)&emsp;
-[java sol.]()</br>
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/c256dfde55801794e01ae3740d34e1eb4e2efdff/8kyu-java/Thinkful%20-%20Logic%20Drills:%20Traffic%20light.java)</br>
