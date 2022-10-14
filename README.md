@@ -33,3 +33,6 @@
 14-[Thinkful - Logic Drills: Traffic light](https://www.codewars.com/kata/58649884a1659ed6cb000072/)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/861dfd0459802952579cb6702003ad68f4f32a77/8kyu/Thinkful%20-%20Logic%20Drills:%20Traffic%20light.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/c256dfde55801794e01ae3740d34e1eb4e2efdff/8kyu-java/Thinkful%20-%20Logic%20Drills:%20Traffic%20light.java)</br>
+15-[Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)&emsp;
+[python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/12e1cdc39d2eb348f8e644013eca9e53c07c7155/8kyu/Square(n)%20Sum.py)&emsp;
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/39fdf6732a9528e308f1c03cef70d87e4a163ede/8kyu-java/Square(n)%20Sum.java)</br>
