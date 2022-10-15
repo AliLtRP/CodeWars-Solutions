@@ -36,3 +36,6 @@
 15- [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/12e1cdc39d2eb348f8e644013eca9e53c07c7155/8kyu/Square(n)%20Sum.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/39fdf6732a9528e308f1c03cef70d87e4a163ede/8kyu-java/Square(n)%20Sum.java)</br>
+16- [Remove exclamation marks](https://www.codewars.com/kata/515e271a311df0350d00000f)&emsp;
+[python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu/Remove%20exclamation%20marks.py)&emsp;
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu-java/Remove%20exclamation%20marks.java)</br>
