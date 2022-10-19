@@ -39,6 +39,6 @@
 16- [Remove exclamation marks](https://www.codewars.com/kata/515e271a311df0350d00000f)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu/Remove%20exclamation%20marks.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu-java/Remove%20exclamation%20marks.java)</br>
-17- [Sentence Smash](https://www.codewars.com/kata/515e271a311df0350d00000f](https://www.codewars.com/kata/53dc23c68a0c93699800041d/))&emsp;
+17- [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu/Remove%20exclamation%20marks.py](https://github.com/AliLtRP/CodeWars-Solutions/blob/2ba1199fd695ecc6105351d3984d17e75dfac0dd/8kyu/Sentence%20Smash.py))&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/74133febc044879477e7bf403092a7b4f5ed8702/8kyu-java/Sentence%20Smash.java)</br>
