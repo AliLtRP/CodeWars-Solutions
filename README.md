@@ -45,3 +45,6 @@
 18- [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1/)&emsp;
 [python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu/Remove%20exclamation%20marks.py)&emsp;
 [java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/076ed760a469b0a4d3c7208886193a643c8c94b4/8kyu-java/Remove%20exclamation%20marks.java)</br>
+19- [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/)&emsp;
+[python sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/a3a74e07835f824eb62905e12dacc519f8ceeb53/8kyu/SumArrays.py)&emsp;
+[java sol.](https://github.com/AliLtRP/CodeWars-Solutions/blob/a3a74e07835f824eb62905e12dacc519f8ceeb53/8kyu-java/SumArray.java)</br>
